@@ -1,0 +1,1 @@
+main_app is to take the place of sample_app
